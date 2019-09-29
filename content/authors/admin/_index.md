@@ -32,6 +32,9 @@ education:
   - course: MSc in Electrical Engineering
     institution: Institute of Semiconductors, Chinese Academy of Sciences & University of Chinese Academy of Sciences
     year: 2021(expected)
+  - course: Minor in Computer Science
+    institution: University of Chinese Academy of Sciences
+    year: 2019
   - course: BSc-Honours in Physics
     institution: Nankai University
     year: 2018
